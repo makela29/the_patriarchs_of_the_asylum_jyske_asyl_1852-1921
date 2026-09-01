@@ -1,0 +1,4 @@
+column_name,description
+treatment_results,"the treatment result given to outgoing patients (""helbredte"", ""bedrede"") "
+pct_p,"percentage patients asigned said treatment result - with total outgoing patients as 100%, not total patients treated "
+chief_phys,"the chief physician at jyske asyl at the time, added for later plotting"

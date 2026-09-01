@@ -1,0 +1,13 @@
+column_name,description
+year,the year of the årsberetning 
+m_* or w_*,"men or women, the number of male or female patients (""Mænd"",""Kvinder"", ""K"", ""M"")"
+p_,"patients, and is the combined number of male or female paitients"
+p_start_yr,patients at the outset of the year indicated
+p_inc_yr,new and returning patiens admitted per year (summized)
+p_total_treated_yr,"total of patitens treated per year, the combinened number of starting and incomming patients"
+p_cured,"patients deemed cured and discharged (""Helbredede"", ""Helbredte"")"
+p_bettered,"patients deemed bettered and discharged (""Bedrede"")"
+p_uncured,"patients discharged without notable outcome of treatment (""Uhelbredede"", ""Uforandrede"")"
+p_deceased,"patients deceased while admitted (""Døde"")"
+p_not_men_ill,"patients deemed not to be mentally ill and discharged (""Ikke sindsyge"")"
+p_discharged_trial,"patients discharged on trial (""Udskrevne paa Prøve"")"
