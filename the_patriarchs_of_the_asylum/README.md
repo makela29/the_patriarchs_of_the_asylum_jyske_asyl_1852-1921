@@ -10,12 +10,18 @@ We have looked at the overall development from 1878-1945, the development of 4 d
 
 ## Authors
 
-Jens Halfdan Nielsen
+JHN
 202506105@post.au.dk
 
-Marie Kern Laarsen
+MKL
 202508464@post.au.dk
 
 ## License
+### Our project license
+This work is licensed under CC BY-SA 
 
-This work is licensed under CC BY 4.0 
+### Jyske_asyl_treatment_results_1878-1945_data.csv: No License can be assigned
+“Beretning om Sindssygehospitalerne i Danmark i året ... : report on Mental Hospitals in Denmark.” from the years 178-1945, which is under public domain, was used to create the data set.
+
+### selmer_treatment_results_1852-1877_data.csv: PMD
+Data from the book “Sindssygeanstalten ved Aarhus 1852-77” (1879) by H. Selmer, which is under public domain, was used to create the data set.
