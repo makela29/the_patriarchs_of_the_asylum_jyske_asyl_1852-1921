@@ -8,14 +8,6 @@ This project examines the development of treatment results for outgoing patients
 We have created data sets from the “årsberetninger” of Jyske Asyl (1878-1945) and from a book by H. Selmer (1879) accessed via https://museum-psyk.dk
 We have looked at the overall development from 1878-1945, the development of 4 different chief physicians (1878-1898, 1898-1901, 1901-1921, 1921-1945) and the comparison of 5 different chief physicians’ (1852-1877, 1878-1898, 1898-1901, 1901-1921, 1921-1945) “positive” results. 
 
-## Authors
-
-JHN
-202506105@post.au.dk
-
-MKL
-202508464@post.au.dk
-
 ## License
 ### Our project license
 This work is licensed under CC BY-SA 
